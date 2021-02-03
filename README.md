@@ -7,7 +7,7 @@
 # 📷 Veja:
 ![gif do projeto](https://github.com/caiov13/dev_finances/blob/main/gif_finances.gif)
 
-## Tecnologias usadas
+## Tecnologias:
 * HTML
 * CSS
 * Javascript
