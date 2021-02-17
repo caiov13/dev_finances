@@ -1,6 +1,6 @@
 # dev.finance$
 
-💻 Adicionei algumas animações
+💻 Adicionei animações
 
 💻 Alterei as cores
 
